@@ -572,3 +572,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (client provides EWM API key)`);
 });
+// OAuth upgrade 2026-03-19T00:52:17Z
